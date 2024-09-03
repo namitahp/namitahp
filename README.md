@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div align="right"style="flex: 0 0 auto;">
-    <img align="right" src="ᓚᘏᗢ.gif" alt="Personal GIF" width="250" height="250" />
+    <img align="right" src="ᓚᘏᗢ.gif" alt="Personal GIF" width="230" height="230" />
   </div>
   <div align="left" style="flex: 1; padding-right: 20px;">
     I see you’ve found my GitHub profile (✿◠‿◠).
