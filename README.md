@@ -1,13 +1,13 @@
 # Hello Friends, Foes, and Everyone Else! (❁´◡`❁)
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; background-color: #000000; align-items: flex-start;">
   <div align="right"style="flex: 0 0 auto;">
     <img align="right" src="ᓚᘏᗢ.gif" alt="Personal GIF" width="230" height="230" />
   </div>
   <div align="left" style="flex: 1; padding-right: 20px;">
     I see you’ve found my GitHub profile (✿◠‿◠).
     <br><br>
-    I’m Namita, a professional ✨daydreamer✨, who loves diving into psychology, solving puzzles and of course, unicorns 🦄.
+    I’m Namita, a professional ✨daydreamer✨, who loves unraveling the mysteries of the universe, solving puzzles and of course, unicorns 🦄.
     <br>
     My interests include quantum computing, cybersecurity and digital forensics.
     <br><br>
